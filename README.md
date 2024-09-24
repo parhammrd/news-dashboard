@@ -2,7 +2,7 @@
 
 Welcome to the **News Dashboard** project! This application provides a sleek and modern interface for displaying the latest news articles with sentiment analysis using Svelte and Carbon Components.
 
-![News Dashboard Screenshot](static/screen.png)
+![News Dashboard Screenshot](static/Screen.png)
 
 ## Project Overview
 
