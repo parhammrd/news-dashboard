@@ -2,7 +2,7 @@
 
 Welcome to the **News Dashboard** project! This application provides a sleek and modern interface for displaying the latest news articles with sentiment analysis using Svelte and Carbon Components.
 
-![News Dashboard Screenshot](static/screen.png)
+![News Dashboard Screenshot](static/Screen.png)
 
 ## Project Overview
 
@@ -42,12 +42,13 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    cd news-dashboard
    ```
-3. Install the dependencies:
+3. Copy `Template.env` to create your `.env` file.
+4. Install the dependencies:
    ```bash
    npm install
    ```
-4. Run the application:
+5. Run the application:
    ```bash
    npm run dev
    ```
-5. Open your browser and navigate to `http://localhost:3000`.
+6. Open your browser and navigate to `http://localhost:3000`.
